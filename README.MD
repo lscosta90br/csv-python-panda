@@ -1,4 +1,4 @@
-# Comprar 2 arquivos CSV
+# Compara 2 arquivos CSV
 
 Compara arquivos CSV
 
